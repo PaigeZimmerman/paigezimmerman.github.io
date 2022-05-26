@@ -2,6 +2,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/paige-zimmerman-8176191b6/)
 
+### Introduction
+
+Hello! My name is Paige and I am an undergraduate student at Lehigh University (class of 2024). I am pursuing a Marketing major, an Art Studio minor, and the Business Analytics Certificate. I am also a regionally and nationally equestrian in the sport of dressage. I have been working with horses since I was 2, and I don't intend on stopping anytime soon! Addiitonally I am a commissioned award-winning artist; I do pet and animal portraits. My primary medium is colored pencil, though I dabble in other mediums too. I am excited to be learning on GitHub and widening my knowledge of the world of data storytelling.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

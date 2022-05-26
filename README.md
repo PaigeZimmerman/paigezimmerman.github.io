@@ -1,5 +1,3 @@
-## Paige Zimmerman's Homepage
-
 [LinkedIn](https://www.linkedin.com/in/paige-zimmerman-8176191b6/)
 
 ### Introduction
